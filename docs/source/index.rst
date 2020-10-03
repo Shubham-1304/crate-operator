@@ -8,13 +8,13 @@ CrateDB_ inside Kubernetes_.
    :maxdepth: 2
    :caption: Contents:
 
-   installation
-   configuration
-   architecture
-   concepts
-   development
-   changelog
-   ref/modules
+  * installation
+  * configuration
+  * architecture
+  * concepts
+  * development
+  * changelog
+  * ref/modules
 
 
 Indices and tables
